@@ -8,8 +8,7 @@ FirstVideos Group is a European-based media production company specializing in v
 
 ## 🛠️ Our Projects
 
-### Production Management Suite
-- **[FVG-Planner v1](https://fvg-planner-v1.vercel.app)** - Official production planner application for managing projects and workflows
+### Active Production Tools
 - **[FVG-Watch v1](https://fvg-watch-v1.vercel.app)** - Production watcher app for real-time monitoring and tracking
 - **[FVG-Status v1](https://fvg-status-v1.vercel.app)** - Status monitoring dashboard for all FVG services and infrastructure
 
@@ -17,8 +16,9 @@ FirstVideos Group is a European-based media production company specializing in v
 - **[FVG-Websuite v2](https://fvg-websuite-eu.vercel.app)** - Our updated European web platform built with modern TypeScript and React technologies
 - **[SMG-Web v1](https://smg-web-v1.vercel.app)** - Summerfall Media Group's main website
 
-### Legacy Projects
-- **FVG_Websuite_EU** *(Archived)* - Our first-generation European websuite (MIT License)
+### Legacy & Archived Projects
+- **FVG-Planner v1** *(Archived)* - First-generation production planner application
+- **FVG_Websuite_EU** *(Archived)* - Our original European websuite (MIT License)
 
 ## 💻 Tech Stack
 
