@@ -8,15 +8,22 @@ FirstVideos Group is a European-based media production company specializing in v
 
 ## 🛠️ Our Projects
 
-### Active Production Tools
+### 🎮 FiveM Projects
+- **[Nexon Roleplay](https://github.com/FirstVideos-Group/nexonroleplay)** - Official FiveM roleplay server project by FirstVideos Group (no framework)
+- **[FVG-FiveM](https://github.com/FirstVideos-Group/fvg-fivem)** - Official FiveM project repository of FirstVideos Group
+
+### 🎥 Film & Production
+- **[Jonge Harten Location List](https://firstvideos-group.github.io/jonge-harten_location_list/)** - Location list and contacts for Anthony Schatteman's *Young Hearts* movie
+
+### 🖥️ Active Production Tools
 - **[FVG-Watch v1](https://fvg-watch-v1.vercel.app)** - Production watcher app for real-time monitoring and tracking
 - **[FVG-Status v1](https://fvg-status-v1.vercel.app)** - Status monitoring dashboard for all FVG services and infrastructure
 
-### Web Presence
+### 🌐 Web Presence
 - **[FVG-Websuite v2](https://fvg-websuite-eu.vercel.app)** - Our updated European web platform built with modern TypeScript and React technologies
 - **[SMG-Web v1](https://smg-web-v1.vercel.app)** - Summerfall Media Group's main website
 
-### Legacy & Archived Projects
+### 🗄️ Legacy & Archived Projects
 - **FVG-Planner v1** *(Archived)* - First-generation production planner application
 - **FVG_Websuite_EU** *(Archived)* - Our original European websuite (MIT License)
 
@@ -25,18 +32,19 @@ FirstVideos Group is a European-based media production company specializing in v
 Our projects are built with modern technologies including:
 - **TypeScript** - Type-safe development
 - **React** - Component-based UI
+- **HTML / Lua** - FiveM server scripting and web interfaces
 - **Appwrite** - Backend as a Service
 - **Vercel** - Deployment and hosting
 
 ## 🌐 Find Us Online
 
 - 🌍 Website: [fvg-websuite-eu.vercel.app](https://fvg-websuite-eu.vercel.app)
-- 👤 GitHub: [@firstvideosgrp](https://github.com/firstvideosgrp)
+- 👤 GitHub: [@FirstVideos-Group](https://github.com/FirstVideos-Group)
 
 ## 📫 Get In Touch
 
 Interested in collaborating or learning more about our projects? Feel free to explore our repositories and reach out through GitHub.
 
-***
+---
 
 *Building the future of media production, one commit at a time.* ✨
