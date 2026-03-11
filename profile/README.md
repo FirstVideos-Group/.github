@@ -10,9 +10,9 @@ FirstVideos Group is a European-based media production company specializing in v
 
 ### 🎮 FiveM Projects
 - **[Nexon Roleplay](https://github.com/FirstVideos-Group/nexonroleplay)** - Official FiveM roleplay server project by FirstVideos Group (no framework)
-- **[FVG-FiveM](https://github.com/FirstVideos-Group/fvg-fivem)** - Official FiveM project repository of FirstVideos Group
 
 ### 🎥 Film & Production
+- **[The Dovecote](https://github.com/FirstVideos-Group/thedovecote)** - Latest production project by FirstVideos Group
 - **[Jonge Harten Location List](https://firstvideos-group.github.io/jonge-harten_location_list/)** - Location list and contacts for Anthony Schatteman's *Young Hearts* movie
 
 ### 🖥️ Active Production Tools
@@ -24,6 +24,7 @@ FirstVideos Group is a European-based media production company specializing in v
 - **[SMG-Web v1](https://smg-web-v1.vercel.app)** - Summerfall Media Group's main website
 
 ### 🗄️ Legacy & Archived Projects
+- **FVG-FiveM** *(Archived)* - First-generation FiveM project repository
 - **FVG-Planner v1** *(Archived)* - First-generation production planner application
 - **FVG_Websuite_EU** *(Archived)* - Our original European websuite (MIT License)
 
